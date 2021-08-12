@@ -5,4 +5,8 @@ what's yourname?
 my name xuzhengwei.
 how old are you?
 45
+<<<<<<< HEAD
 how old is 173547438@qq.com
+=======
+how old is 173577153@qq.com?
+>>>>>>> 35139082949a2312a5830bdb71997e9d1477afc3
